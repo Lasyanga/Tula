@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Tula/static/css/main.6fd41e53.chunk.css",
+    "main.js": "/Tula/static/js/main.1a7a80d2.chunk.js",
+    "main.js.map": "/Tula/static/js/main.1a7a80d2.chunk.js.map",
+    "runtime-main.js": "/Tula/static/js/runtime-main.cec1cb00.js",
+    "runtime-main.js.map": "/Tula/static/js/runtime-main.cec1cb00.js.map",
+    "static/js/2.abf6f681.chunk.js": "/Tula/static/js/2.abf6f681.chunk.js",
+    "static/js/2.abf6f681.chunk.js.map": "/Tula/static/js/2.abf6f681.chunk.js.map",
+    "index.html": "/Tula/index.html",
+    "static/css/main.6fd41e53.chunk.css.map": "/Tula/static/css/main.6fd41e53.chunk.css.map",
+    "static/js/2.abf6f681.chunk.js.LICENSE.txt": "/Tula/static/js/2.abf6f681.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cec1cb00.js",
+    "static/js/2.abf6f681.chunk.js",
+    "static/css/main.6fd41e53.chunk.css",
+    "static/js/main.1a7a80d2.chunk.js"
+  ]
+}
